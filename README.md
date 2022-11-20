@@ -1,8 +1,11 @@
-# PID_mini_project
+# PID Mini-Project
 
-Link to the YouTube video of presentation:
-[presentation](https://www.youtube.com/watch?v=Nibd7wXXtYk&feature=youtu.be)
+Project [presentation](https://www.youtube.com/watch?v=Nibd7wXXtYk&feature=youtu.be) available on YouTube, and the project is available on [tinkerCad](https://www.tinkercad.com/things/3eNYF1pbXCy-frantic-amberis/editel?sharecode=z5zFVEy8INBqNlB4pA-bnFLgtp5BobZftoKlevq2Bxs).
 
-Link to tinkerCad project:
-[tinkerCad](https://www.tinkercad.com/things/3eNYF1pbXCy-frantic-amberis/editel?sharecode=z5zFVEy8INBqNlB4pA-bnFLgtp5BobZftoKlevq2Bxs)
+## Interface
+
+## Circuit
+
+## User testing
+
 
